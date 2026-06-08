@@ -1,7 +1,6 @@
 <img width="1584" height="396" alt="personal-banner" src="https://github.com/user-attachments/assets/9fa98c52-186e-41d2-b749-d1ecd660546a" />
 
-[link](https://kaydenstarr.ca/)
-<a href= 'https://kaydenstarr.ca/' style='color: #fcb8e1'>Web Portfolio</a>
+[Web Portfolio](https://kaydenstarr.ca/)
 ## Located in: 
 Edmonton, Alberta <br>
 ## Title: 

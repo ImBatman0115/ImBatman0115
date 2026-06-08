@@ -4,23 +4,37 @@
 <a href='mailto:mayhewstarr@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=DA605E&color=ED493B'/></a>
 
 
-name: Kayden Mayhew
-located_in: Edmonton, Alberta
-current_job: Web Designer and Developer
-education: Northern Alberta Institute of Technology (NAIT)
+# Kayden Mayhew
+## Located in: 
+Edmonton, Alberta <br>
+## Title: 
+Web Designer and Developer <br>
+## Education: 
+Northern Alberta Institute of Technology (NAIT) <br>
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Web Design",
-    "Front-End Development",
-    "UI/UX",
-    "Graphic Design",
-  ]
+## Fields of interests:
+    - Web Development
+    - Web Design
+    - Front-End Development
+    - UI/UX
+    - Graphic Design
   
-currently_learning: ["Web Hosting, Advanced Javascript"]
-2026 Goals: ["Create 10 projects and learn something new a day"]
-hobbies: ["Gaming", "Music", "Rollerblading", "Art"]
+## Currently learning: 
+  - Web Hosting
+  - Advanced Javascript
+  - Markdown
+
+## 2026 Goals: 
+Create 10 projects and learn something new a day <br>
+## Hobbies: 
+  - Art
+  - Gaming
+  - Rollerblading
+
+## Extra Fact: 
+I have a beagle named Odin!
+<img width="1231" height="1539" alt="odin-rainbow" src="https://github.com/user-attachments/assets/de678cb6-90c6-48cd-9898-b5787e8178c9" />
+
 <!--
 **ImBatman0115/ImBatman0115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

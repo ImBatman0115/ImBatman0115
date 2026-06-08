@@ -1,9 +1,6 @@
 <img width="1584" height="396" alt="personal-banner" src="https://github.com/user-attachments/assets/9fa98c52-186e-41d2-b749-d1ecd660546a" />
-<a href='kaydenstarr.ca' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-Website?style=flat-square&labelColor=fcb8e1&color=fcb8e1"/> </a>
-<a href='https://www.instagram.com/mayhemarts15/?next=%2F' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=F08F53&color=D539EA'/></a>
-<a href='mailto:mayhewstarr@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=DA605E&color=ED493B'/></a>
 
-
+<img href="https://kaydenstarr.ca/" width="300" height="300" alt="globe-solid-full" src="https://github.com/user-attachments/assets/0bd4b41a-1924-40b9-982f-330711ece61c" style="fill: #ffffff, background-color: #fcb8e1"/> Web Portfolio
 # Kayden Mayhew
 ## Located in: 
 Edmonton, Alberta <br>

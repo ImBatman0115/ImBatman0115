@@ -16,6 +16,15 @@ Northern Alberta Institute of Technology (NAIT) <br>
 - Front-End Development
 - UI/UX
 - Graphic Design
+
+## Skills:
+- HTML
+- CSS
+- PHP
+- JS
+- SQL
+- Figma
+- Canva
   
 ## Currently learning: 
   - Web Hosting

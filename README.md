@@ -32,7 +32,7 @@ Create 10 projects and learn something new a day <br>
   - Rollerblading
 
 ## Extra Fact: 
-I have a beagle named Odin!
+I have a beagle named Odin! <br>
 <img width="500" height="500" alt="odin-rainbow" src="https://github.com/user-attachments/assets/de678cb6-90c6-48cd-9898-b5787e8178c9" />
 
 <!--

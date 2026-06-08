@@ -13,11 +13,11 @@ Web Designer and Developer <br>
 Northern Alberta Institute of Technology (NAIT) <br>
 
 ## Fields of interests:
-    - Web Development
-    - Web Design
-    - Front-End Development
-    - UI/UX
-    - Graphic Design
+- Web Development
+- Web Design
+- Front-End Development
+- UI/UX
+- Graphic Design
   
 ## Currently learning: 
   - Web Hosting
@@ -33,7 +33,7 @@ Create 10 projects and learn something new a day <br>
 
 ## Extra Fact: 
 I have a beagle named Odin!
-<img width="1231" height="1539" alt="odin-rainbow" src="https://github.com/user-attachments/assets/de678cb6-90c6-48cd-9898-b5787e8178c9" />
+<img width="500" height="500" alt="odin-rainbow" src="https://github.com/user-attachments/assets/de678cb6-90c6-48cd-9898-b5787e8178c9" />
 
 <!--
 **ImBatman0115/ImBatman0115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

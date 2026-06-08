@@ -7,6 +7,7 @@ Edmonton, Alberta <br>
 ## Title: 
 Web Designer and Developer <br>
 ## Education: 
+Diploma of Web Design and Development from
 Northern Alberta Institute of Technology (NAIT) <br>
 
 ## Fields of interests:

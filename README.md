@@ -1,17 +1,26 @@
-## Heyo! Kayden Starr Here! 👋
+<img width="1584" height="396" alt="personal-banner" src="https://github.com/user-attachments/assets/9fa98c52-186e-41d2-b749-d1ecd660546a" />
 
-I am a current student at NAIT in the Web Design and Development program! I am passionate about design and code. Can't wait for my future projects!
-
-
-<a href='https://www.instagram.com/imbatman06/?next=%2F' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=F08F53&color=D539EA'/></a>
-<a href='https://www.tumblr.com/imbatman06arts' target="_blank"><img alt='tumblr' src='https://img.shields.io/badge/tumblr-100000?style=for-the-badge&logo=tumblr&logoColor=white&labelColor=4048A9&color=31287F'/></a>
-<a href='mailto:kaydenmayhew@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=DA605E&color=ED493B'/></a>
+<a href='https://www.instagram.com/mayhemarts15/?next=%2F' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=F08F53&color=D539EA'/></a>
+<a href='mailto:mayhewstarr@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=DA605E&color=ED493B'/></a>
 
 
-💬 Ask me about Batman or anything design related, or even just strike up a convo. I like to talk. <br>
-📫 Feel free to reach out if you are looking for a second pair of eyes and feedback. <br>
-😄 Pronouns: She/They <br>
-⚡ Fun Joke: How do you make a tissue dance? ... Put a little boogie in it! haha
+name: Kayden Mayhew
+located_in: Edmonton, Alberta
+current_job: Web Designer and Developer
+education: Northern Alberta Institute of Technology (NAIT)
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Web Design",
+    "Front-End Development",
+    "UI/UX",
+    "Graphic Design",
+  ]
+  
+currently_learning: ["Web Hosting, Advanced Javascript"]
+2026 Goals: ["Create 10 projects and learn something new a day"]
+hobbies: ["Gaming", "Music", "Rollerblading", "Art"]
 <!--
 **ImBatman0115/ImBatman0115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

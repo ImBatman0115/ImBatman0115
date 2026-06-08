@@ -1,5 +1,5 @@
 <img width="1584" height="396" alt="personal-banner" src="https://github.com/user-attachments/assets/9fa98c52-186e-41d2-b749-d1ecd660546a" />
-<a href='kaydenstarr.ca' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-Website?style=flat-square&labelColor=fcb8e1&color=fcb8e1&link=https%3A%2F%2Fkaydenstarr.ca%2F"> />
+<a href='kaydenstarr.ca' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-Website?style=flat-square&labelColor=fcb8e1&color=fcb8e1"/> </a>
 <a href='https://www.instagram.com/mayhemarts15/?next=%2F' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=F08F53&color=D539EA'/></a>
 <a href='mailto:mayhewstarr@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=DA605E&color=ED493B'/></a>
 

@@ -1,6 +1,7 @@
 <img width="1584" height="396" alt="personal-banner" src="https://github.com/user-attachments/assets/9fa98c52-186e-41d2-b749-d1ecd660546a" />
 
 [Web Portfolio](https://kaydenstarr.ca/)
+[Instagram](https://www.instagram.com/mayhemarts15/?next=%2F)
 ## Located in: 
 Edmonton, Alberta <br>
 ## Title: 
